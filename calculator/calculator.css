@@ -1,0 +1,24 @@
+.main{
+
+    height:100vh;
+    
+    align-items: center;
+}
+.cal{
+    border-radius: 30px;
+    width:30vw;
+    margin-left: 450px;
+    margin-top: 140px;
+}
+.input{
+    width:22vw;
+    height: 40px;
+    text-align: end;
+    margin-left: 16px;
+}
+.btn{
+    margin:5px;
+    font-size: 30px;
+    width:100px;
+    background-color:lightblue;
+}

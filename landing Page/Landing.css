@@ -1,0 +1,86 @@
+body{
+    margin:0%;
+    padding: 0%;
+    
+}
+.main1{
+    /* background-image: linear-gradient(to right,green,orange,red); */
+    background-color: transparent;
+    height:10vh;
+    width:90vw;
+    text-align: center;
+    font-size: 30px;
+   position:fixed;
+   padding-left: 160px;
+   padding-top: 20px;
+}
+.main1 a{
+    margin-right: 40px;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.img1{
+    background-image: url("dog3.jpeg");
+    width: 100vw;
+    height: 80vh;
+    padding-top: 150px;
+    background-size: cover;
+   
+    
+}
+.img1 .data{
+    background-color:darkslategrey;
+    width:300px;
+    height:200px;
+    padding-top: 40px;
+    color:aliceblue;
+    margin-left: 300px;
+}
+.img1 .data h5{
+    margin:10px
+}
+.img1 .data h1{
+    margin:10px
+}
+.img1 .data p{
+    margin:10px
+}
+.img2{
+    background-color:lightgreen;
+    width:96vw;
+    height:95vh;
+    padding:15px;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+.img2 .data1{
+    width:30vw;
+    background-color: aliceblue;
+    float:left;
+    padding-left: 15px;
+    
+}
+.img3{
+    background-color: aquamarine;
+    width: 95vw;
+    height: 85vh;
+    padding:30px
+}
+.img3 .data1{
+    width:60vw;
+    float: left;
+    padding: 20px;
+    font-size: 20px;
+}
+.img4{
+    background-color: darkseagreen;
+    width: 100vw;
+}
+.img4 .data1{
+    padding: 50px;
+    margin-left: 100px;
+}
+p{
+    font-size: 19px;
+}
